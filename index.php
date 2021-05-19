@@ -1,5 +1,5 @@
 <?php
 
-include_once("movies_html");
+include_once("index.html");
 
 ?>
